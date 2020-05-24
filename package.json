@@ -1,0 +1,16 @@
+{
+  "name": "time_priority_queue",
+  "version": "1.0.0",
+  "description": "It implements a time based priority queue for processes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Ashish Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.2.0",
+    "neat-csv": "^5.2.0"
+  }
+}
